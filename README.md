@@ -1,4 +1,3 @@
 # sn_support_panel
-
-Changes
-- On Mobile Pagination Number Indicator Color Change
+changes
+- file not showing when choose from folder
